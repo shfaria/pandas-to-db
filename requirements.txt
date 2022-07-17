@@ -1,0 +1,7 @@
+Django == 4.0.4
+postgres == 4.0 
+SQLAlchemy == 1.4.39 
+pandas==1.4.3
+psycopg2-binary==2.9.1
+python-dateutil==2.8.2
+openpyxl == 3.0.10 
